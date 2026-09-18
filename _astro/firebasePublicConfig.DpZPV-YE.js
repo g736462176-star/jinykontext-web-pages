@@ -1,0 +1,1 @@
+import{l as e}from"./preload-helper.BzI7WQNT.js";var t=`6LfnsZ0tAAAAAGfJV7LRT-zA8MpeeAKpk-ciKmDJ`,n=`1:642744287628:web:4b741502e5a007abac56a9`,r=/^[A-Za-z0-9_-]{20,200}$/.test(t),i=/^\d+:\d+:web:[A-Za-z0-9_-]{6,}$/.test(n),a=()=>r&&i,o=(t=typeof location>`u`?``:location.hostname)=>a()&&e(t);export{o as t};

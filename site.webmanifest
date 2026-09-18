@@ -1,0 +1,16 @@
+{
+  "name": "Jiný Kontext",
+  "short_name": "Jiný Kontext",
+  "description": "To, co se do titulku nevešlo.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090B0D",
+  "theme_color": "#090B0D",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
